@@ -1,0 +1,24 @@
+﻿/*body {
+
+}*/
+
+.footerlinks {
+    color: #ffffff;
+    text-decoration: none !important;
+}
+
+    .footerlinks:hover {
+        color: #ffd800;
+    }
+
+#footer1 {
+    background: #3c6382;
+}
+
+#footer2 {
+    background: #0a3d62;
+}
+
+/*.loginsignup a input{
+    text-decoration: none;
+}*/
